@@ -112,10 +112,10 @@ font-weight: 500;
     display: flex;
     justify-content: flex-end;
     padding-right: 50px;
-    margin-top: 50px; /* Menü ile arasına mesafe koydum*/
+    margin-top: 50px; /* Menü ile arasına mesafe */
 }
 
-.content .imgBox img /* Görsel boyutunu ayarladım*/
+.content .imgBox img /* Görsel boyutu*/
 {
     max-width: 340px;
 }
@@ -181,4 +181,4 @@ font-weight: 500;
     background: #017143;
     clip-path: circle(600px at right 800px);
 }
-
+ /* Spadey */
